@@ -1,9 +1,5 @@
 # 📊 Excel Sales Performance Dashboard
 
-🔗 **[Click here to view the dashboard screenshot](Screenshot%202026-11-03%20005912.png)**
-
-An interactive Excel dashboard that tracks sales performance by sales executive and city. One city slicer, powered by VBA macros, filters all four dashboard tables and charts at once.
-
 ---
 
 ## 🖼️ Dashboard Preview
